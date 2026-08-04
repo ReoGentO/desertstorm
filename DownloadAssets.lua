@@ -12,6 +12,10 @@ local images = {
     cross = {
         filename = "cross.png",
         link = "https://github.com/ReoGentO/desertstorm/blob/main/locate-fixed.png?raw=true"
+    },
+    swords = {
+        filename = "cross.png",
+        link = "https://github.com/ReoGentO/desertstorm/blob/main/swords.png?raw=true"
     }
 }
 
