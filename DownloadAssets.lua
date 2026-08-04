@@ -7,15 +7,19 @@ end
 local images = {
     eye = {
         filename = "eye.png",
-        link = "https://github.com/ReoGentO/desertstorm/blob/main/eye.png?raw=true"
+        link = "https://raw.githubusercontent.com/ReoGentO/desertstorm/main/eye.png"
     },
     cross = {
         filename = "cross.png",
-        link = "https://github.com/ReoGentO/desertstorm/blob/main/locate-fixed.png?raw=true"
+        link = "https://raw.githubusercontent.com/ReoGentO/desertstorm/main/locate-fixed.png"
     },
     swords = {
         filename = "swords.png",
-        link = "https://github.com/ReoGentO/desertstorm/blob/main/swords.png?raw=true"
+        link = "https://raw.githubusercontent.com/ReoGentO/desertstorm/main/swords.png"
+    },
+    house = {
+        filename = "house.png",
+        link = "https://raw.githubusercontent.com/ReoGentO/desertstorm/main/house.png"
     }
 }
 
